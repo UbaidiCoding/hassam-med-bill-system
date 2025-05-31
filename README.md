@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/a18951f9-20f7-4fdb-b703-5e55dcdc013f
+**URL**: hassam-med-bill-system.lovable.app
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a18951f9-20f7-4fdb-b703-5e55dcdc013f) and start prompting.
+Simply visit the [Lovable Project](hassam-med-bill-system.lovable.app) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
